@@ -1,6 +1,6 @@
 # Pro's and Con's 
 
-### Pro's
+### Some Pro's to using Docsify
 
 * Using docsify simplifies the process of creating a complete website. 
 * Markdown is easier to learn than typical languages like HTML, CSS, and Javascript. 
@@ -8,8 +8,8 @@
 * Does not statically build html files
 * You can change the entire theme of the site by changing one line i.e. linking to an external stylesheet
 
-### Con's 
+### Some Con's to using Docsify
 
 * Using a cms could mean your webpage is not as unique if you choose to use premade themes. 
 * Using a cms also limits the amount you can customize your webpage. 
-* Con 3
+* Can not use Liquid tags made from ruby.. therefore cannnot embed youtube videos etc. 
