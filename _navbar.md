@@ -1,0 +1,5 @@
+* [Home](/)
+* [Pro's and Con's](list.md)
+* [Alternatives](alternatives.md)
+* [Data Structure](data.md)
+* [Video](video.md)
